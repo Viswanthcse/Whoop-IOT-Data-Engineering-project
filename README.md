@@ -1,8 +1,7 @@
 # Whoop IoT Data Engineering Pipeline
-![Whoop Data Engineering pipeline architecture (GCP) - Light Theme](whoop_architecture_dark.png)
+(whoop_architecture_dark.png)
 
-*(Alternative Dark/Neon version below)*
-![Whoop Data Engineering pipeline architecture (GCP) - Dark Theme](whoop_architecture_v3_1773363266964.png)
+
 ## Overview
 This project simulates an enterprise-grade IoT Data Engineering pipeline, ingesting both massive-scale batch data and high-frequency streaming sensor data from wearable fitness devices (like Whoop rings). 
 
@@ -22,6 +21,7 @@ The goal of this system is to ingest raw physiological telemetry (Heart Rate, HR
 
 ## The Two-Pronged Ingestion Architecture
 
+![Whoop Data Engineering pipeline architecture (GCP) - Dark Theme](whoop_architecture_v3_1773363266964.png)
 ### 1. The Batch Pipeline (OLTP)
 Daily summaries and workout sessions are compiled directly on the user's phone. When they open the app, this data syncs to a backend API which normalizes the records (Users, Devices, Workouts, Health Rollups) into a **Cloud SQL PostgreSQL** database.
 
