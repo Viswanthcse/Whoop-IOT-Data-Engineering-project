@@ -1,0 +1,34 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# GCP / Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+*.json
+
+# Data
+*.csv
+/local_gcs_bucket/
+/unstructured_data/
+*.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store

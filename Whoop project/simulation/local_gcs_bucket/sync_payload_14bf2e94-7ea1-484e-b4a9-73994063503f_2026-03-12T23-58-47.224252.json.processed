@@ -1,0 +1,130 @@
+{
+    "sync_id": "c826f702-9fab-41da-93a5-aea4140c93e6",
+    "sync_timestamp": "2026-03-12T23:58:47.224252",
+    "user_profile": {
+        "user_id": "14bf2e94-7ea1-484e-b4a9-73994063503f",
+        "first_name": "Angelica",
+        "last_name": "Harris",
+        "dob": "1963-06-06",
+        "gender": "F",
+        "height_cm": 150.2,
+        "weight_kg": 67.9,
+        "device_firmware": "v2.1.0"
+    },
+    "daily_summaries": [
+        {
+            "date": "2026-03-05",
+            "sleep": {
+                "total_sleep_seconds": 23665
+            },
+            "vitals": {
+                "rhr": 46,
+                "hrv_avg": 67.54
+            },
+            "recovery_score": 39,
+            "strain_score": 15.9
+        },
+        {
+            "date": "2026-03-06",
+            "sleep": {
+                "total_sleep_seconds": 25081
+            },
+            "vitals": {
+                "rhr": 61,
+                "hrv_avg": 88.45
+            },
+            "recovery_score": 32,
+            "strain_score": 18.9
+        },
+        {
+            "date": "2026-03-07",
+            "sleep": {
+                "total_sleep_seconds": 29895
+            },
+            "vitals": {
+                "rhr": 84,
+                "hrv_avg": 89.93
+            },
+            "recovery_score": 52,
+            "strain_score": 18.7
+        },
+        {
+            "date": "2026-03-08",
+            "sleep": {
+                "total_sleep_seconds": 14698
+            },
+            "vitals": {
+                "rhr": 54,
+                "hrv_avg": 93.12
+            },
+            "recovery_score": 43,
+            "strain_score": 9.5
+        },
+        {
+            "date": "2026-03-09",
+            "sleep": {
+                "total_sleep_seconds": 15148
+            },
+            "vitals": {
+                "rhr": 63,
+                "hrv_avg": 70.27
+            },
+            "recovery_score": 31,
+            "strain_score": 10.6
+        },
+        {
+            "date": "2026-03-10",
+            "sleep": {
+                "total_sleep_seconds": 29650
+            },
+            "vitals": {
+                "rhr": 63,
+                "hrv_avg": 64.89
+            },
+            "recovery_score": 4,
+            "strain_score": 4.5
+        },
+        {
+            "date": "2026-03-11",
+            "sleep": {
+                "total_sleep_seconds": 16878
+            },
+            "vitals": {
+                "rhr": 73,
+                "hrv_avg": 79.58
+            },
+            "recovery_score": 15,
+            "strain_score": 9.1
+        }
+    ],
+    "workouts": [
+        {
+            "workout_id": "f685d0d9-b25e-433d-a495-ddf0f215a646",
+            "start_time": "2026-03-05T10:00:00Z",
+            "end_time": "2026-03-05T11:00:00Z",
+            "activity_type": "HIIT",
+            "calories_burned": 205
+        },
+        {
+            "workout_id": "ace189be-c756-4bb7-8058-a17390928bc7",
+            "start_time": "2026-03-06T10:00:00Z",
+            "end_time": "2026-03-06T11:00:00Z",
+            "activity_type": "HIIT",
+            "calories_burned": 557
+        },
+        {
+            "workout_id": "29534622-fdca-49ca-89fa-62bce5196c2b",
+            "start_time": "2026-03-08T10:00:00Z",
+            "end_time": "2026-03-08T11:00:00Z",
+            "activity_type": "CrossFit",
+            "calories_burned": 514
+        },
+        {
+            "workout_id": "60517f78-1e6e-42fe-9572-48f16cd556b6",
+            "start_time": "2026-03-09T10:00:00Z",
+            "end_time": "2026-03-09T11:00:00Z",
+            "activity_type": "Cycling",
+            "calories_burned": 433
+        }
+    ]
+}

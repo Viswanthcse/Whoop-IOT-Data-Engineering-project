@@ -1,0 +1,151 @@
+{
+    "sync_id": "b0929b7b-23d9-448a-a32c-e3ef8efbdff7",
+    "sync_timestamp": "2026-03-12T23:53:24.076938",
+    "user_profile": {
+        "user_id": "15212a7c-dd3c-4a3c-94f8-07295c8444fa",
+        "first_name": "Luis",
+        "last_name": "Green",
+        "dob": "1985-04-10",
+        "gender": "M",
+        "height_cm": 188.8,
+        "weight_kg": 63.2,
+        "device_firmware": "v2.1.0"
+    },
+    "daily_summaries": [
+        {
+            "date": "2026-03-05",
+            "sleep": {
+                "total_sleep_seconds": 26615
+            },
+            "vitals": {
+                "rhr": 48,
+                "hrv_avg": 71.11
+            },
+            "recovery_score": 20,
+            "strain_score": 14.0
+        },
+        {
+            "date": "2026-03-06",
+            "sleep": {
+                "total_sleep_seconds": 34740
+            },
+            "vitals": {
+                "rhr": 52,
+                "hrv_avg": 36.48
+            },
+            "recovery_score": 3,
+            "strain_score": 12.4
+        },
+        {
+            "date": "2026-03-07",
+            "sleep": {
+                "total_sleep_seconds": 15690
+            },
+            "vitals": {
+                "rhr": 67,
+                "hrv_avg": 25.95
+            },
+            "recovery_score": 48,
+            "strain_score": 0.7
+        },
+        {
+            "date": "2026-03-08",
+            "sleep": {
+                "total_sleep_seconds": 19622
+            },
+            "vitals": {
+                "rhr": 47,
+                "hrv_avg": 50.91
+            },
+            "recovery_score": 10,
+            "strain_score": 17.4
+        },
+        {
+            "date": "2026-03-09",
+            "sleep": {
+                "total_sleep_seconds": 24674
+            },
+            "vitals": {
+                "rhr": 84,
+                "hrv_avg": 86.87
+            },
+            "recovery_score": 53,
+            "strain_score": 13.0
+        },
+        {
+            "date": "2026-03-10",
+            "sleep": {
+                "total_sleep_seconds": 30611
+            },
+            "vitals": {
+                "rhr": 48,
+                "hrv_avg": 58.03
+            },
+            "recovery_score": 15,
+            "strain_score": 13.6
+        },
+        {
+            "date": "2026-03-11",
+            "sleep": {
+                "total_sleep_seconds": 14496
+            },
+            "vitals": {
+                "rhr": 52,
+                "hrv_avg": 49.07
+            },
+            "recovery_score": 85,
+            "strain_score": 3.4
+        }
+    ],
+    "workouts": [
+        {
+            "workout_id": "01c7589b-6700-4efd-b8c6-d756aacbea22",
+            "start_time": "2026-03-05T10:00:00Z",
+            "end_time": "2026-03-05T11:00:00Z",
+            "activity_type": "Swimming",
+            "calories_burned": 786
+        },
+        {
+            "workout_id": "00830a49-7767-4e8b-9a97-c7a5d2c74f15",
+            "start_time": "2026-03-06T10:00:00Z",
+            "end_time": "2026-03-06T11:00:00Z",
+            "activity_type": "Weight Training",
+            "calories_burned": 411
+        },
+        {
+            "workout_id": "8d77cd84-49aa-4985-b501-f92796b5d20e",
+            "start_time": "2026-03-07T10:00:00Z",
+            "end_time": "2026-03-07T11:00:00Z",
+            "activity_type": "HIIT",
+            "calories_burned": 388
+        },
+        {
+            "workout_id": "ed66341d-1aa3-4a9e-a116-bd0ad72090ee",
+            "start_time": "2026-03-08T10:00:00Z",
+            "end_time": "2026-03-08T11:00:00Z",
+            "activity_type": "HIIT",
+            "calories_burned": 395
+        },
+        {
+            "workout_id": "fef91f82-3a98-4b00-a4fc-39bc2f469f10",
+            "start_time": "2026-03-09T10:00:00Z",
+            "end_time": "2026-03-09T11:00:00Z",
+            "activity_type": "HIIT",
+            "calories_burned": 534
+        },
+        {
+            "workout_id": "a368a1c9-ac29-49d7-b2ee-7a9974566fcf",
+            "start_time": "2026-03-10T10:00:00Z",
+            "end_time": "2026-03-10T11:00:00Z",
+            "activity_type": "CrossFit",
+            "calories_burned": 205
+        },
+        {
+            "workout_id": "9aafa4c3-c88b-47fe-9583-46c8aaa9dd7f",
+            "start_time": "2026-03-11T10:00:00Z",
+            "end_time": "2026-03-11T11:00:00Z",
+            "activity_type": "CrossFit",
+            "calories_burned": 745
+        }
+    ]
+}

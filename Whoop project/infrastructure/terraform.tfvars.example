@@ -1,0 +1,5 @@
+project_id        = "YOUR-GCP-PROJECT-ID"
+credentials_path  = "C:\\Path\\To\\Your\\ServiceAccountKey.json"
+raw_bucket_name   = "whoop-raw-data-lake-12345" # MUST BE UNIQUE
+script_bucket_name= "whoop-scripts-bucket-12345" # MUST BE UNIQUE
+bq_dataset_id     = "whoop_dw"
