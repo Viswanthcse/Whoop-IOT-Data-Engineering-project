@@ -1,5 +1,5 @@
 # Whoop IoT Data Engineering Pipeline
-![Whoop Data Engineering pipeline architecture (GCP) - Light Theme](whoop_architecture_v2_1773363253607.png)
+![Whoop Data Engineering pipeline architecture (GCP) - Light Theme](whoop_architecture_dark.png)
 
 *(Alternative Dark/Neon version below)*
 ![Whoop Data Engineering pipeline architecture (GCP) - Dark Theme](whoop_architecture_v3_1773363266964.png)
